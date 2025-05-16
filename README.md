@@ -1,2 +1,1 @@
-# GitHubCloneProject
-Practice Project 
+Hello, this is a message from my cloned repository!   
