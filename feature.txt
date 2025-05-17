@@ -1,1 +1,1 @@
-Hello from main branch.
+This is a new feature from the feature-greeting branch!
